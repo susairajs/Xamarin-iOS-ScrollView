@@ -1,0 +1,23 @@
+
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "XamariniOSScrollView", "XamariniOSScrollView\XamariniOSScrollView.csproj", "{4AA2D881-89E1-458E-ACFA-37FCFCB614BB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|iPhoneSimulator = Debug|iPhoneSimulator
+		Release|iPhone = Release|iPhone
+		Release|iPhoneSimulator = Release|iPhoneSimulator
+		Debug|iPhone = Debug|iPhone
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4AA2D881-89E1-458E-ACFA-37FCFCB614BB}.Debug|iPhoneSimulator.ActiveCfg = Debug|iPhoneSimulator
+		{4AA2D881-89E1-458E-ACFA-37FCFCB614BB}.Debug|iPhoneSimulator.Build.0 = Debug|iPhoneSimulator
+		{4AA2D881-89E1-458E-ACFA-37FCFCB614BB}.Release|iPhone.ActiveCfg = Release|iPhone
+		{4AA2D881-89E1-458E-ACFA-37FCFCB614BB}.Release|iPhone.Build.0 = Release|iPhone
+		{4AA2D881-89E1-458E-ACFA-37FCFCB614BB}.Release|iPhoneSimulator.ActiveCfg = Release|iPhoneSimulator
+		{4AA2D881-89E1-458E-ACFA-37FCFCB614BB}.Release|iPhoneSimulator.Build.0 = Release|iPhoneSimulator
+		{4AA2D881-89E1-458E-ACFA-37FCFCB614BB}.Debug|iPhone.ActiveCfg = Debug|iPhone
+		{4AA2D881-89E1-458E-ACFA-37FCFCB614BB}.Debug|iPhone.Build.0 = Debug|iPhone
+	EndGlobalSection
+EndGlobal

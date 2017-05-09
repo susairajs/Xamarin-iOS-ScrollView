@@ -1,0 +1,15 @@
+﻿<Properties StartupConfiguration="{4AA2D881-89E1-458E-ACFA-37FCFCB614BB}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="XamariniOSScrollView/ViewController.cs">
+    <Files>
+      <File FileName="XamariniOSScrollView/AppDelegate.cs" Line="1" Column="1" />
+      <File FileName="XamariniOSScrollView/ViewController.cs" Line="9" Column="8" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|iPhoneSimulator" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.XamariniOSScrollView PreferredExecutionTarget="MonoDevelop.IPhone.IPhoneSimulatorTarget.F21228CC-50FA-4F8C-A3A8-6DCEE6BE0337" />
+  <MultiItemStartupConfigurations />
+</Properties>

@@ -1,0 +1,9 @@
+/Users/DELPIN/Projects/XamariniOSScrollView/XamariniOSScrollView/obj/iPhoneSimulator/Debug/Xamarin.iOS,Version=v1.0.AssemblyAttribute.cs
+/Users/DELPIN/Projects/XamariniOSScrollView/XamariniOSScrollView/obj/iPhoneSimulator/Debug/ibtool/_BundleResourceWithLogicalName.items
+/Users/DELPIN/Projects/XamariniOSScrollView/XamariniOSScrollView/obj/iPhoneSimulator/Debug/actool/_PartialAppManifest.items
+/Users/DELPIN/Projects/XamariniOSScrollView/XamariniOSScrollView/obj/iPhoneSimulator/Debug/actool/_BundleResourceWithLogicalName.items
+/Users/DELPIN/Projects/XamariniOSScrollView/XamariniOSScrollView/obj/iPhoneSimulator/Debug/optimized/
+/Users/DELPIN/Projects/XamariniOSScrollView/XamariniOSScrollView/bin/iPhoneSimulator/Debug/XamariniOSScrollView.exe.mdb
+/Users/DELPIN/Projects/XamariniOSScrollView/XamariniOSScrollView/bin/iPhoneSimulator/Debug/XamariniOSScrollView.exe
+/Users/DELPIN/Projects/XamariniOSScrollView/XamariniOSScrollView/obj/iPhoneSimulator/Debug/XamariniOSScrollView.exe
+/Users/DELPIN/Projects/XamariniOSScrollView/XamariniOSScrollView/obj/iPhoneSimulator/Debug/XamariniOSScrollView.exe.mdb
